@@ -1,0 +1,4 @@
+PREFIX databus: <https://dataid.dbpedia.org/databus#>
+SELECT COUNT(?s) as ?Version {
+?s a databus:Version
+}

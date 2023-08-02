@@ -1,0 +1,2 @@
+https://databus.dbpedia.org/sparql
+https://dev.databus.dbpedia.org/sparql
